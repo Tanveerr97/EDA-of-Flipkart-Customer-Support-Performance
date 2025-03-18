@@ -43,3 +43,5 @@ I used Python for data processing and visualization, and Jupyter for executing t
 
 https://github.com/Tanveerr97/EDA-of-Flipkart-Customer-Support-Performance/blob/main/Yes_Bank_Stock_Performance_Analysis%20copy.ipynb
 
+![Image](https://github.com/user-attachments/assets/ab9e136d-0369-499b-bc39-c9ba2c4775fe)
+
